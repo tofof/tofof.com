@@ -1,0 +1,2 @@
+C:\Python27\Scripts\pelican content -s "pelicanconf.py"
+"C:\Program Files (x86)\WinSCP\winscp.com" /command "option confirm off" "option batch abort" "open sftp://tofof:Z@#alpha314@tofof.com" "synchronize remote output www" "exit"
