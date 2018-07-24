@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-PLUGIN_PATHS=['C:\Python27\Lib\site-packages\pelican\pelican-plugins-master']
+PLUGIN_PATHS=['pelican-plugins']
 PLUGINS=['summary', 'sitemap']
 
 AUTHOR = u'Tofof'
