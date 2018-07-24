@@ -2,9 +2,13 @@ My personal website.
 
 # Setup
 pip install markdown
+
 pip install pelican
+
 pip install typogrify
+
 git clone --recursive https://github.com/getpelican/pelican-plugins
+
 
 
 # Usage
