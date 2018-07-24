@@ -9,6 +9,6 @@ git clone --recursive https://github.com/getpelican/pelican-plugins\
 
 
 # Usage
-***pelican content***
+***pelican content***\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build the site from source files (markdown and images) contained in `content`
 
