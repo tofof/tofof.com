@@ -1,4 +1,4 @@
-My personal website.
+The pelican source for my personal website.
 
 # Setup
 pip install markdown  

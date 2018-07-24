@@ -1,3 +1,3 @@
-C:\Python27\Scripts\pelican.exe content
+pelican.exe content
 cd output
-C:\Python27\python -m SimpleHTTPServer
+python -m SimpleHTTPServer

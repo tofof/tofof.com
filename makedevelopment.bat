@@ -1,4 +1,4 @@
-START /B C:\Python27\Scripts\pelican.exe --debug --autoreload -r content
+START /B pelican.exe --debug --autoreload -r content
 cd output
-START /B C:\Python27\python -m SimpleHTTPServer
+START /B python -m SimpleHTTPServer
 cd ..

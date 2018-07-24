@@ -1,4 +1,6 @@
 *.pyc
+firebase.json
+.firebaserc
 /__pycache__
 /output*
 /cache
