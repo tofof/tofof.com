@@ -1,0 +1,4 @@
+*.bat
+/output
+/cache
+/themes
