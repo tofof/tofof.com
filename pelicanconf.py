@@ -11,7 +11,7 @@ SITENAME = u'Negative One'
 SITEURL = "http://tofof.com"
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'files']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

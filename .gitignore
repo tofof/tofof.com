@@ -2,6 +2,7 @@
 firebase.json
 .firebaserc
 /__pycache__
+/content/files
 /output*
 /cache
 /themes
