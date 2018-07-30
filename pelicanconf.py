@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 PLUGIN_PATHS=['pelican-plugins']
-PLUGINS=['summary', 'sitemap']
+PLUGINS=['summary', 'sitemap', "tag_cloud"]
 
-AUTHOR = u'Tofof'
+AUTHOR = u'Brian James'
 SITENAME = u'Negative One'
 # SITEURL = "http://localhost:8000"
 SITEURL = "http://tofof.com"
@@ -24,14 +24,13 @@ TIMEZONE = 'America/Chicago'
 DEFAULT_LANG = u'en'
 DEFAULT_PAGINATION = 5
 TYPOGRIFY = True
-
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 25
 
-THEME = "themes/lannisport"
+THEME = "themes/euler-theme"
 ################################
 ### 
-### lannisport Config Begins
+### euler-theme Config Begins
 ###
 ##GOOGLE_ANALYTICS_CODE: your Google Analytics stats
 SITELOGO = '/images/eipi_trans_white.png'
@@ -41,18 +40,21 @@ SITEDESCR = "Tirades, trials, tasks and trivialities of a 21<sup>st</sup>-centur
 DISQUS_SITENAME = "tofof"
 
 EMAIL_URL = 'web@tofof.com'
+
+ARCHIVES_URL = 'archives/'
+
+LICENSE_NAME = '<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>'
+LICENSE_URL  = 'http://creativecommons.org/licenses/by-sa/4.0/'
+
 #TWITTER_URL = 'http://twitter.com/tofof'
 #GOOGLE_URL = 'https://plus.google.com/105275131994304318274/'
 #GITHUB_URL: URL to your GitHub page, for the social icons
 #LINKEDIN_URL: URL to your LinkedIn page, for the social icons
 #FACEBOOK_URL: URL to your Facebook page, for the social icons
 #FLICKR_URL: URL to your Flickrpage, for the social icons
-#LICENSE_NAME: the license for your content (e.g. CC BY-SA)
-#LICENSE_URL: the link to where the full text of your license is
-#ARCHIVES_URL: the link to your archives
 #CONTACT_URL: the link to your contact page
 ### 
-### lannisport Config Ends
+### euler-theme Config Ends
 ###
 ################################
 

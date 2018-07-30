@@ -1,3 +1,3 @@
 pelican.exe content
 cd output
-python -m SimpleHTTPServer
+python -m http.server
