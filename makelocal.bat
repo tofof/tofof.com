@@ -1,3 +1,3 @@
-pelican.exe content
-cd output
-python -m http.server
+pelican.exe -d content
+call grunt
+python -m http.server --directory output/

@@ -8,3 +8,5 @@ firebase.json
 /themes
 /pelican-plugins
 *backup*
+/temp
+/node_modules
