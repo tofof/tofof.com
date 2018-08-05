@@ -46,7 +46,7 @@ GITHUB_URL = 'https://github.com/tofof'
 #LINKEDIN_URL = URL to your LinkedIn page, for the social icons
 #FACEBOOK_URL = URL to your Facebook page, for the social icons
 #CONTACT_URL = the link to your contact page
-##GOOGLE_ANALYTICS_CODE: your Google Analytics stats
+##GOOGLE_ANALYTICS_CODE= your Google Analytics stats
 ### 
 ### euler-theme Config Ends
 ###
