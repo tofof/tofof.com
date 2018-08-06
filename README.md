@@ -4,7 +4,7 @@ The pelican source for my personal website.
 pip install markdown  
 pip install pelican  
 pip install typogrify  
-git clone --recursive https://github.com/getpelican/pelican-plugins 
+git clone --recursive https://github.com/getpelican/pelican-plugins  
 npm install
 
 
