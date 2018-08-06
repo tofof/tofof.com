@@ -1,6 +1,11 @@
 {
-  "name": "my-project-name",
+  "name": "tofof.com",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tofof/tofof.com"
+  },
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "customizr": "^1.1.0",
     "grunt": "^1.0.3",
@@ -16,8 +21,5 @@
     "purgecss": "^1.0.1",
     "purify-css": "^1.2.6"
   },
-  "dependencies": {
-    "lodash": "^4.17.10",
-    "npm-check-updates": "^2.14.2"
-  }
+  "dependencies": {}
 }
