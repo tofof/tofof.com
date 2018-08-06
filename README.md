@@ -12,6 +12,8 @@ npm install
 ***pelican content***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build the site from source files (markdown and images) contained in `content`
 
-***grunt default***
+***grunt default***  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postprocess the output from pelican for minifying css/js/html
 
+***firebase deploy***  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Upload the site to firebase hosting
