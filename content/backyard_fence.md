@@ -1,8 +1,8 @@
-Title: Backyard Pruning
+Title: Backyard Fence Work
 Category: Projects
 Date: 4/28/2015 2:38:14 PM
 Tags: House
-Summary: With decent weather comes work on my house's exterior. This spring, the main project has been my backyard, doing preparation to enclose it with a fence.<br><br>As usual, I was signing up for more than I anticipated.
+Summary: With decent weather comes work on my house's exterior. This spring, the main project has been my backyard, doing preparation to enclose it with a fence.<br><br>[As usual](http://en.wikipedia.org/wiki/Hofstadters_law), there would be more to this project than I anticipated.
 
 With decent weather comes work on my house's exterior. This spring, the main project has been my backyard, doing preparation to enclose it with a fence.
 
@@ -20,7 +20,7 @@ This spring, then, dealt with what surprisingly little brush had grown back over
 The side hedges fell with similar ease to hedge clippers and several pairs of lopping shears. Ivies, creeping charlie, and milkweed were literally pulled out by the roots wherever possible, with liberal doses of herbicide applied where manual extraction was impossible.
 
 <div class="pullquote">
-Stone would prove provide the requisite unexpected difficulty.
+Stone would provide the requisite un&shy;expected difficulty.
 </div>
 
 A few cobbles here and there were at the surface, which is all I had originally expected to be present. After all, stones that were obvious and had once marked a garden wall had already been removed and repurposed, three years ago, to line the side of my driveway. (They replaced a practically-unmowable strip of lawn.)
@@ -34,7 +34,7 @@ Instead, I found stone everywhere I dug, buried beneath a very shallow layer of 
 These stones extended almost a third of the way into the back yard and along the entirety of the west edge of the yard. They were beneath tree roots, in need of prying out prior to stump grinding. They were stacked as many as four deep, as I excavated remains of hidden portions of that elevated garden wall.
 
 <div class="pullquote">
-In effect, anywhere there would be a fence post, there was already buried flagstone.
+Anywhere there would be a fence post, there was already buried flagstone.
 </div>
 
 With my friend Will's help, I amassed quite the pile of stone along the concrete stoop at the back. Nearly all the stone you can see piled there in the photos above came from the lawn itself; only a few pieces were present beforehand.
