@@ -16,7 +16,7 @@ module.exports = function(grunt) {
       },
     },
     purgecss: {
-      my_target: {
+      dist: {
         options: {
           content: ['output/**/*.html', 'output/**/*.js']
         },
@@ -97,6 +97,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
   // Default task(s).
-  grunt.registerTask('default', ['purgecss:my_target','purifycss','clean:css','clean:js', 'modernizr:dist', 'htmlmin:dist', 'uglify']);
+  grunt.registerTask('default', ['purgecss:dist','purifycss','clean:css','clean:js', 'modernizr:dist', 'htmlmin:dist', 'uglify']);
 
 };
