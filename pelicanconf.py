@@ -45,6 +45,17 @@ TWITTER_URL = 'https://twitter.com/tofof'
 GITHUB_URL = 'https://github.com/tofof'
 #LINKEDIN_URL = URL to your LinkedIn page, for the social icons
 #FACEBOOK_URL = URL to your Facebook page, for the social icons
+
+# Social widget
+SOCIAL = (('Email web@tofof.com',   'fas fa-envelope',      'mailto:web@tofof.com'),
+          ('GitHub',                'fab fa-github',        'http://github.com/tofof'),
+          # ('Twitter',               'fab fa-twitter',       'http://twitter.com/tofof'),
+          ('BoardGameGeek',         'fas fa-dice',          'http://boardgamegeek.com/user/tofof'),
+          ('Slashdot',              'icon-slashdot',        'http://slashdot.org/~Tofof'),
+          # ('Google+',               'fab fa-google-plus',   'http://plus.google.com/105275131994304318274/'),
+          ('Youtube',               'fab fa-youtube',       'http://youtube.com/channel/UCZF7fWxrCQZRo3Yvpf7u4rQ')
+          )
+
 #CONTACT_URL = the link to your contact page
 ##GOOGLE_ANALYTICS_CODE= your Google Analytics stats
 ### 
