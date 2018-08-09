@@ -32,7 +32,7 @@ THEME = "themes/euler-theme"
 ### euler-theme Config Begins
 ###
 ARCHIVES_URL = 'archives.html'
-SITELOGO = '/images/eipi_trans_white.png'
+SITELOGO = 'images/eipi_trans_white.png'
 SITETAGLINE = u"by Tofof"
 SITEDESCR = u"Tirades, trials, tasks and trivialities of a 21<sup>st</sup>-century polymath"
 #DISQUS_SITENAME = "tofof"
@@ -47,7 +47,7 @@ GITHUB_URL = 'https://github.com/tofof'
 #FACEBOOK_URL = URL to your Facebook page, for the social icons
 
 # Social widget
-SOCIAL = (('Email web@tofof.com',   'fas fa-envelope',      'mailto:web@tofof.com'),
+SOCIAL = (('Email&nbsp;web@tofof.com',   'fas fa-envelope',      'mailto:web@tofof.com'),
           ('GitHub',                'fab fa-github',        'http://github.com/tofof'),
           # ('Twitter',               'fab fa-twitter',       'http://twitter.com/tofof'),
           ('BoardGameGeek',         'fas fa-dice',          'http://boardgamegeek.com/user/tofof'),
