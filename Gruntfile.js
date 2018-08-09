@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         //info: true
       },
       target: {
-        src: ['output/*.html', 'output/pages/*.html', 'ouput/tag/*.html', 'output/theme/js/*.js', 'output/theme/js/vendor/*.js'],
+        src: ['output/**/*.html', 'output/**/*.js'],
         css: ['temp/*.css'],
         dest: 'output/theme/css/purgedpure.css'
       },
