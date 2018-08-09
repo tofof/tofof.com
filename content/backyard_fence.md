@@ -6,7 +6,7 @@ Summary: With decent weather comes work on my house's exterior. This spring, the
 
 With decent weather comes work on my house's exterior. This spring, the main project has been my backyard, doing preparation to enclose it with a fence.
 
-When we moved in I inherited a host of yard tools, which was fortunate, as the backyard was completely overgrown. Lamp posts well inside the corners of the yard were almost completely hidden in brush. I made an intial pass at the yard that year, cutting back huge portions of brush and even taking a well-worn chainsaw to some saplings. I had a veritable palisade of brush stacked on my parkway when I was done. Over the next five years, however, the backyard got scant attention: little other than the occasional broadleaf killer coupled with letting the grass grow tall enough to overshadow and outcompete the bugleweed, creeping charlie, and violets to help reestablish a proper lawn. 
+When we moved in I inherited a host of yard tools, which was fortunate, as the backyard was completely overgrown. Lamp posts well inside the corners of the yard were almost completely hidden in brush. I made an intial pass at the yard that year, cutting back huge portions of brush and even taking a well-worn chainsaw to some saplings. I had a veritable palisade of brush stacked on my parkway when I was done. Over the next five years, however, the backyard got scant attention: little other than occasional broadleaf killer, coupled with letting the grass grow tall enough to overshadow and outcompete the bugleweed, creeping charlie, and violets. 
 
 <span><p class="centerme">
 [![Overgrown Backyard, back left](/images/backyard/thumbnails/before%20179.jpg "")](/images/backyard/before%20179.jpg "Overgrown Backyard, back left")&emsp;
