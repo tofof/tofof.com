@@ -1,1 +1,2 @@
 content/* linguist-documentation=false
+*.md linguist-detectable=true
