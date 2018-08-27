@@ -1,1 +1,1 @@
-pelican.exe --debug --autoreload -r content
+pelican.exe -d --debug --autoreload -r content

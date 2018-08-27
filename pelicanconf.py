@@ -34,7 +34,7 @@ THEME = "themes/euler-theme"
 ARCHIVES_URL = 'archives.html'
 SITELOGO = 'images/eipi_trans_white.png'
 SITETAGLINE = u"by Tofof"
-SITEDESCR = u"Tirades, trials, tasks and trivialities of a 21<sup>st</sup>-century polymath"
+SITEDESCR = u"Tirades, tasks, and trivialities of a 21<sup>st</sup>-century polymath"
 #DISQUS_SITENAME = "tofof"
 LICENSE_IMAGE = '<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />'
 LICENSE_NAME = u'CC BY-SA 4.0'
@@ -47,13 +47,13 @@ GITHUB_URL = 'https://github.com/tofof'
 #FACEBOOK_URL = URL to your Facebook page, for the social icons
 
 # Social widget
-SOCIAL = (('Email&nbsp;web@tofof.com',   'fas fa-envelope',      'mailto:web@tofof.com'),
-          ('GitHub',                'fab fa-github',        'http://github.com/tofof'),
-          # ('Twitter',               'fab fa-twitter',       'http://twitter.com/tofof'),
-          ('BoardGameGeek',         'fas fa-dice',          'http://boardgamegeek.com/user/tofof'),
-          ('Slashdot',              'icon-slashdot',        'http://slashdot.org/~Tofof'),
-          # ('Google+',               'fab fa-google-plus',   'http://plus.google.com/105275131994304318274/'),
-          ('Youtube',               'fab fa-youtube',       'http://youtube.com/channel/UCZF7fWxrCQZRo3Yvpf7u4rQ')
+SOCIAL = (('Email web@tofof.com', 'fas fa-envelope',      'mailto:web@tofof.com'),
+          ('GitHub',              'fab fa-github',        'http://github.com/tofof'),
+          # ('Twitter',           'fab fa-twitter',       'http://twitter.com/tofof'),
+          ('BoardGameGeek',       'fas fa-dice',          'http://boardgamegeek.com/user/tofof'),
+          ('Slashdot',            'icon-slashdot',        'http://slashdot.org/~Tofof'),
+          # ('Google+',           'fab fa-google-plus',   'http://plus.google.com/105275131994304318274/'),
+          ('YouTube',             'fab fa-youtube',       'http://youtube.com/channel/UCZF7fWxrCQZRo3Yvpf7u4rQ')
           )
 
 #CONTACT_URL = the link to your contact page
