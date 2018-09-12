@@ -40,10 +40,10 @@ Finally, my most recent new-to-me visitor was literally on my doorstep last Than
 
 
 
-[^squirrel]:Without it, this happens, even with a squirrelproof feeder. 'Grandpa', the largest & smartest squirrel in my backyard, was able to defeat the latching mechanism.<br>[![Squirrel attempting to defeat my feeder](/images/birds/greysquirrel.jpg "Squirrel attempting to defeat my feeder")](/images/birds/greysquirrel.jpg)<br>Pictured, however, is of one of his less-clever grandsons, who was ... struggling.
+[^squirrel]: Without it, this happens, even with a squirrelproof feeder. 'Grandpa', the largest & smartest squirrel in my backyard, was able to defeat the latching mechanism.<br>[![Squirrel attempting to defeat my feeder](/images/birds/greysquirrel.jpg "Squirrel attempting to defeat my feeder")](/images/birds/greysquirrel.jpg)<br>Pictured, however, is of one of his less-clever grandsons, who was ... struggling.
 [^capsaicin]: This evolutionary distinction indirectly provides the selection pressure for chili peppers to have evolved their 'hotness'. Their seeds are dispersed intact by birds, but get destroyed (by molars) when ingested by mammals. Concentrating capsaicin in the flesh of their fruits decreases their consumption by mammals, so that the energy invested in fruit production isn't wasted.
 [^slurp]: Yes, it's ridiculous, but that really is their collective noun.
-[^kingletnote]: The range map for these makes it especially obvious that these are strictly migratory visitors.
+[^kingletnote]: Their [range map](https://www.allaboutbirds.org/guide/Ruby-crowned_Kinglet/maps-range) makes it especially obvious that they're strictly migratory visitors.
 
 [hotsauce]: http://www.amazon.com/gp/product/B00416S4YS
 [sparrow halo]: http://www.sialis.org/halo.htm
