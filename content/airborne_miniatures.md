@@ -1,7 +1,7 @@
 Title: Airborne Miniatures
 Category: Hobbies
 Date: 3/25/2015 10:41:57 PM
-Tags: Miniatures, Painting, WW2
+Tags: Miniatures, Painting, WW2, Games
 Summary: In January I decided to resume the miniatures hobby, this time with WW2 figures. I settled on US airborne troops as the first force I'd purchase and paint up. I've recently finished painting my first squad of them and am quite pleased with how they turned out.</p><p>[![Several airborne figures, magnetically mounted to a 2x4 for varnishing](/images/miniatures/figs1-5.jpg)](/images/miniatures/figs1-5.jpg "Several airborne, magnetically mounted to a 2x4 for varnishing")</p>
 
 In January I decided to resume the miniatures hobby, this time with WW2 figures. I settled on US airborne troops as the first force I'd purchase and paint up. I've recently finished painting my first squad of them and am quite pleased with how they turned out.
