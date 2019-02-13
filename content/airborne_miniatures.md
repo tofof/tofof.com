@@ -55,14 +55,14 @@ prime		|	White Spray Primer				|	everywhere
 basecoat	|	Green Ochre						|	uniform	
 basecoat	|	Buff			 				|	webbing - straps and pouches
 basecoat	|	Cork Brown						|	boots, medpack, gas brassard
-basecoat	|	Cork Brown 1 : 2 Mahogany Brown	|	m1911 holster, m3 knife sheath	
+basecoat	|	Cork Brown 1 : 2 Mahogany Brown	|	m1911 holster, m6 sheath for m3 knife
 basecoat	|	US Dark Green					|	rigger patches, helmet, flashlight, shovel
 			|									|	
 wash		|	Strong 3 : Magic 4 : 2 Water	|	painted areas (excluding boots)
 			|									|	
 highlight	|	Green Ochre  3 : 2 Iraqi Rock	|	uniform						
 highlight	|	Buff 2:1 Ivory					|	webbing
-highlight	|	US Dark Green : Middlestone		|	elbow and knee patches 
+highlight	|	US Dark Green : Middlestone		|	rigger patches
 			|									|	
 detail		|	Brown Technical Pen				|	m1911 holster, m6 sheath						
 detail		|	G. Camo Med Brown : Blackbrown	|	m3 hilt
