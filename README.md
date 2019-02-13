@@ -9,7 +9,7 @@ npm install
 npm init  
 npm install grunt --save-dev  
 npm install grunt-modernizr --save-dev  
-npm install grunt-purifycss -save-dev  
+npm install grunt-purifycss --save-dev  
 npm install grunt-purgecss --save-dev  
 npm install grunt-contrib-clean --save-dev  
 npm install grunt-contrib-copy --save-dev  
