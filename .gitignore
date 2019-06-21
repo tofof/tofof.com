@@ -1,7 +1,6 @@
 *.cache
 *.url
 *.pyc
-package-lock.json
 /__pycache__
 /content/files
 /output*
@@ -11,4 +10,6 @@ package-lock.json
 *backup*
 /temp
 /node_modules
-
+.well-known
+package-lock.json
+package.json
